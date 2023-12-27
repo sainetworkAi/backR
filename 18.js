@@ -42,7 +42,7 @@ function createSimplePopup() {
     declineButton.style.border = 'none';
     declineButton.style.cursor = 'pointer';
     declineButton.addEventListener('click', () => {
-        window.location.href = 'https://example.com'; // Replace with your desired URL
+        window.location.href = 'https://twitter.com'; // Replace with your desired URL
     });
 
     popupDiv.appendChild(message);
